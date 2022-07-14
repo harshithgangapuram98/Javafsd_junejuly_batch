@@ -1,0 +1,11 @@
+package mypackage;
+
+public class MyClass {
+
+	public static void main(String[] args)
+	{
+	int c= 5^7;
+	System.out.println();
+	}
+
+}
